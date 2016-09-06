@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+}
+h1 {
+	background-color: green;
+}
+p {
+	background-color: red;
+}
+ul {
+	background-color: blue;
+}
+li {
+	background-color: pink;
+}
+img {
+	background-color: #ee3e80;
+}
+#slogan {
+	background:red;
+}
