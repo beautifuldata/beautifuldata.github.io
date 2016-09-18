@@ -1,45 +1,21 @@
 body {
-	background-color: #050580;
-    color:#e7e7e7;
-    font-weight:100;
-    font-size:16px;  /* 1em = 16px */
-    margin:0;
+	background-color: black;
 }
-
-header{
-    font-family:sans-serif;
-    text-align:center;
-    padding:40px 0; 
-}
-
 h1 {
-    font-size:1.5em;
-    margin:0 0 .55em;
-    letter-spacing:.35em;
+	background-color: green;
 }
-
-h2{
-    font-weight:100;
-    font-size:.9em;
-    letter-spacing:.1em;
-    font-style:italic;
-    margin:0;
+p {
+	background-color: red;
 }
-
+ul {
+	background-color: blue;
+}
+li {
+	background-color: pink;
+}
 img {
-    display:block;
-    margin:auto;
+	background-color: #ee3e80;
 }
-
-.body{
-    background:black;
-    width:600px;
-    padding:50px 100px;
-    margin: 50px auto;
-    
-}
-
-#hero{
-    background:#e7e7e7;
-    padding:80px;
+#slogan {
+	background:red;
 }

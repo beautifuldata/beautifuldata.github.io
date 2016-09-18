@@ -2,7 +2,7 @@ body {
 	background-color: #050580;
     color:#e7e7e7;
     font-weight:100;
-    font-size:16px;  /* 1em = 16px */
+    font-size:18px;  /* 1em = 16px */
     margin:0;
 }
 
@@ -13,22 +13,30 @@ header{
 }
 
 h1 {
-    font-size:1.5em;
+    font-size:2em;
     margin:0 0 .55em;
     letter-spacing:.35em;
 }
 
 h2{
     font-weight:100;
-    font-size:.9em;
+    font-size:1.5em;
     letter-spacing:.1em;
     font-style:italic;
     margin:0;
+    padding: .8em 0;
+
+}
+
+h1, h2 {
+  text-transform: uppercase;
+  border-bottom: 4px solid black;
+  display: inline-block;
 }
 
 img {
     display:block;
-    margin:auto;
+    margin: 0 auto;
 }
 
 .body{
@@ -39,7 +47,21 @@ img {
     
 }
 
-#hero{
-    background:#e7e7e7;
-    padding:80px;
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+}
+
+
+
+
+
+
+
+
